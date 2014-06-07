@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.select {
+	display: block;
+	border: 1px solid #000000;
+}
+
+.start {
+	display: block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000000;
+	
+}
+
+.color3 {
+	color: #ffffff;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ff0000;
+	float: right;
+}
+
+.color2 {
+	color: #000000;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ff0000;
+	float: right;
+}
+
+.color1 {
+	color: #ffffff;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000000;
+	float: right;
+}
+.color {
+	color: #000000;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #000000;
+	float: right;
+}
+
+.clearfloat {
+	display: inline-block;
+	float: none;	
+}
+
+.white {
+	color: #ffffff;
+}
+
+#header {
+	width: 100%;
+	height: 120px;
+}
