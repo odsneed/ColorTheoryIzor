@@ -7,6 +7,7 @@ $(document).ready(function() {
 	$("#submit1").on('click', function () {
 		
 var color = $("#colorStart").val();
+color = color.replace('#', '');
 
 var red1 = color.charAt(0);
 var red2 = color.charAt(1);
